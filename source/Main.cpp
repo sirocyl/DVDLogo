@@ -42,7 +42,7 @@ int main()
 			}
 		}
 
-		if (key & KEY_PLUS)
+		if (key & KEY_START)
 			break;
 
 		/* Direction control */

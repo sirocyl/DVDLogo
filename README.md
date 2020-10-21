@@ -1,2 +1,2 @@
 # DVDLogo
-A bouncing DVD logo screensaver for Switch
+A bouncing DVD logo screensaver for 3DS

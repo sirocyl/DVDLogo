@@ -2,10 +2,10 @@
 #include <cstdlib>
 #include <ctime>
 
-#include <switch.h>
+#include <3ds.h>
 
-constexpr u32 ScreenWidth  = 1280;
-constexpr u32 ScreenHeight = 720;
+constexpr u32 ScreenWidth  = 320;
+constexpr u32 ScreenHeight = 240;
 
 constexpr u32 LogoWidth  = 200;
 constexpr u32 LogoHeight = 120;
